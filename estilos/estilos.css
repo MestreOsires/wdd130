@@ -14,8 +14,13 @@ nav {
 }
 
 nav a {
-  margin-right: 1rem;
+  display: block;
+  padding: 0.5rem;
   color: #fff;
+}
+
+h1 {
+  color: #173b5b;
 }
 
 main {
@@ -26,6 +31,9 @@ main {
 main img {
   width: 150px;
   height: auto;
+  border: 1px solid #333;
+  padding: 2px;
+  box-shadow: 0 0 30px gray;
 }
 
 p {
