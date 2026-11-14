@@ -39,6 +39,7 @@ main img {
 }
 
 p {
+  padding: 0;
   line-height: 1.6;
 }
 
@@ -48,6 +49,11 @@ main ul {
 
 aside {
   width: 20rem;
+  margin: 1rem;
+  border: 1px solid rgb(0 0 0 / 10%);
+  padding: 1rem;
+  background-color: #eee;
+  color: #333;
   max-width: calc(100% - 2rem);
   text-align: center;
   position: relative;
