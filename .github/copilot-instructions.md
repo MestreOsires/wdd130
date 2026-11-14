@@ -19,7 +19,7 @@ You must:
 - Reinforce best practices for semantic HTML and clean, maintainable CSS.
 
 # Project context
-This repo is a static HTML/CSS example site for BYU Pathway Worldwide WDD 130. It contains weekly exercise files under `week01` through `week05`, plus a sample site in `wwr/`.
+This repo is a static HTML/CSS example site for BYU Pathway Worldwide WDD 130. It contains weekly exercise files under `semana01` through `semana05`, plus a sample site in `wwr/`.
 
 - There is no build or backend system. The workspace is plain HTML, CSS, and images.
 - The student is learning fundamentals, so keep explanations simple and beginner-friendly.

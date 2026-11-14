@@ -11,7 +11,7 @@ AI coding agents should treat it as a beginner-oriented student exercise collect
 - Do not write or edit complete student assignment files as a solution.
 - Prefer explanations, concepts, and partial examples that help the student think through the fix.
 - Use the project structure to understand scope:
-  - `week01/` through `week05/` contain exercise files.
+  - `semana01/` through `semana05/` contain exercise files.
   - `wwr/` contains a sample site.
 - There is no build system or backend; use plain HTML/CSS conventions.
 

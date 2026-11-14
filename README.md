@@ -13,7 +13,7 @@ This repository provides the starter files, practice activities, and folder stru
 ## Repository structure
 
 - `index.html`: the starting page for the repository.
-- `week01` through `week05`: course activities organized by week.
+- `semana01` through `semana05`: course activities organized by week.
 - `imagens`: shared image assets.
 - `estilos`: shared CSS files.
 - `.vscode`: recommended extensions and workspace settings for Visual Studio Code.
