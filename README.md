@@ -14,8 +14,8 @@ This repository provides the starter files, practice activities, and folder stru
 
 - `index.html`: the starting page for the repository.
 - `week01` through `week05`: course activities organized by week.
-- `images`: shared image assets.
-- `styles`: shared CSS files.
+- `imagens`: shared image assets.
+- `estilos`: shared CSS files.
 - `.vscode`: recommended extensions and workspace settings for Visual Studio Code.
 
 Work only in the files and folders identified by your assignment instructions. Keep file names, folder names, and relative paths accurate so that links, styles, images, and GitHub Pages work correctly.
